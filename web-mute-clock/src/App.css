@@ -11,7 +11,7 @@
   font-size:4rem;
 }
 .title {
-  margin-top:-100px
+  margin-top:-12%
 }
 
 .App {
@@ -34,11 +34,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top:100px;
+  margin-top:10%;
 }
 
 .App-logo {
   height: 40vmin;
+  width: 40vmin;
   pointer-events: none;
 }
 
@@ -51,6 +52,7 @@
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
+  min-width: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
