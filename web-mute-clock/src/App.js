@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="font title">Time Until Weber Is Unmuted</h1>
+      <h1 className="font title">Time Until Weber Is Unmuted!</h1>
       <div></div>
       <Clock timerDays={timerDays} timerHours={timerHours} timerMinutes={timerMinutes} timerSeconds={timerSeconds}/>
     </div>
