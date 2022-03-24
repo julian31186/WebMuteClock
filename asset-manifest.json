@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WebMuteClock/static/css/main.a2fdbf96.css",
+    "main.css": "/WebMuteClock/static/css/main.7b74296c.css",
     "main.js": "/WebMuteClock/static/js/main.d5e3ffb8.js",
     "static/media/snow.jpg": "/WebMuteClock/static/media/snow.88d22739a1223930e8cf.jpg",
     "index.html": "/WebMuteClock/index.html",
-    "main.a2fdbf96.css.map": "/WebMuteClock/static/css/main.a2fdbf96.css.map",
+    "main.7b74296c.css.map": "/WebMuteClock/static/css/main.7b74296c.css.map",
     "main.d5e3ffb8.js.map": "/WebMuteClock/static/js/main.d5e3ffb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2fdbf96.css",
+    "static/css/main.7b74296c.css",
     "static/js/main.d5e3ffb8.js"
   ]
 }
