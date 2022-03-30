@@ -11,7 +11,7 @@ function App() {
   let interval;
 
   const startTimer=()=> {
-    const countDownDate = new Date("May 8, 2022").getTime();
+    const countDownDate = new Date("April 6, 2022").getTime();
     interval=setInterval(()=> {
       const now = new Date().getTime();
       const distance = countDownDate - now;
@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="font title">Time Until Weber Is Unmuted!</h1>
+      <h1 className="font title">Time Until Eoin Can Flame Again!</h1>
       <div></div>
       <Clock timerDays={timerDays} timerHours={timerHours} timerMinutes={timerMinutes} timerSeconds={timerSeconds}/>
     </div>
